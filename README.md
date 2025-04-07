@@ -1,1 +1,1 @@
-# Dalgona Burger 프로젝트입니다.
+# Dalgona Burger Develop 파트입니다.
